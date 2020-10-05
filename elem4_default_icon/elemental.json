@@ -5,8 +5,9 @@
   "name": "Elemental 4 Icon",
   "author": "Adr",
   "description": "Elemental 4, but the palette is \nremapped to the colors of\nthe default pack's icon.png.",
-  "styles": "https://adrthegamedev.github.io/elemental4packs/elem4_default_icon/style.css",
-  "icon": "https://adrthegamedev.github.io/elemental4packs/elem4_default_icon/icon.png",
+  "styles": "./style.css",
+  "icon": "./icon.png",
+  "format_version": 1
   "sounds": [],
   "music": [],
   "colors": {

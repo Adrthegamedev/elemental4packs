@@ -4,7 +4,7 @@
   "id": "elem4_default_icon",
   "name": "Elemental 4 Icon",
   "author": "Adr",
-  "description": "Elemental 4, but the palette changed to those of the default icon.png.",
+  "description": "Changes the colors to those of the default icon.png.",
   "icon": "./icon.png",
   "format_version": 1,
   "colors": {

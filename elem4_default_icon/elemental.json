@@ -7,7 +7,7 @@
   "description": "Elemental 4, but the palette is \nremapped to the colors of\nthe default pack's icon.png.",
   "styles": "./style.css",
   "icon": "./icon.png",
-  "format_version": 1
+  "format_version": 1,
   "sounds": [],
   "music": [],
   "colors": {

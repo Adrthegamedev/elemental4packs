@@ -1,0 +1,89 @@
+{
+  "type": "elemental4:theme",
+  "version": 1,
+  "id": "elem4_default_icon",
+  "name": "Elemental 4 Icon",
+  "author": "Adr",
+  "description": "Elemental 4, but the palette is \nremapped to the colors of\nthe default pack's icon.png.",
+  "styles": "./style.css",
+  "icon": "./icon.png",
+  "sounds": [],
+  "music": [],
+  "colors": {
+    "white": {
+      "color": "#fffaff",
+      "saturationMultiplier": 0,
+      "lightnessMultiplier": 0
+    },
+    "black": {
+      "color": "#000000",
+      "saturationMultiplier": 0,
+      "lightnessMultiplier": 0
+    },
+    "grey": {
+      "color": "#7b7d7b",
+      "saturationMultiplier": 0,
+      "lightnessMultiplier": 1.95
+    },
+    "brown": {
+      "color": "#b47d7b",
+      "saturationMultiplier": 0.5,
+      "lightnessMultiplier": 1
+    },
+    "red": {
+      "color": "#f6504a",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "orange": {
+      "color": "#f6814a",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "yellow": {
+      "color": "#e6cecd",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "yellow-green": {
+      "color": "#c5d2e6",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "green": {
+      "color": "#acc2de",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "aqua": {
+      "color": "#b4cae6",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "blue": {
+      "color": "#4199ff",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "dark-blue": {
+      "color": "#4a7dbd",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "purple": {
+      "color": "#9c5552",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "magenta": {
+      "color": "#ee484a",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    },
+    "hot-pink": {
+      "color": "#f6504a",
+      "saturationMultiplier": 1,
+      "lightnessMultiplier": 1
+    }
+  }
+}
